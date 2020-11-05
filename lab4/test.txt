@@ -1,0 +1,29 @@
+aaaa:
+total 336
+-rwxrwxrwx 1 leo leo 321024 11月  5 14:46 exp3.ppt
+drwxr-xr-x 2 leo leo   4096 11月  5 12:56 hello1
+drwxr-xr-x 3 leo leo   4096 11月  5 18:01 hello2
+drwxr-xr-x 2 leo leo   4096 11月  5 11:48 hello3
+-rwxr-xr-x 1 leo leo   1789 11月  5 14:46 sem.c
+-rwxr-xr-x 1 leo leo    703 11月  5 14:46 sem.h
+
+aaaa/hello1:
+total 0
+
+aaaa/hello2:
+total 860
+-rwxr-xr-x 1 leo leo 428456 11月  5 09:41 1.jpg
+-rw-rw-r-- 1 leo leo 428456 11月  5 09:42 2.jpg
+-rwxr-xr-x 1 leo leo   3288 11月  5 09:41 main.c
+-rwxr-xr-x 1 leo leo    145 11月  5 09:41 Makefile
+-rwxr-xr-x 1 leo leo   1789 11月  5 09:41 sem.c
+-rwxr-xr-x 1 leo leo    754 11月  5 09:41 sem.h
+drwxr-xr-x 2 leo leo   4096 11月  5 11:48 world1
+
+aaaa/hello2/world1:
+total 4
+-rwxr-xr-x 1 leo leo 445 11月  5 11:48 wps-office-prometheus.desktop
+
+aaaa/hello3:
+total 4
+-rwxr-xr-x 1 leo leo 445 11月  5 11:48 wps-office-prometheus.desktop
